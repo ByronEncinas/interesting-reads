@@ -16,3 +16,4 @@
 - [the bromine chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
 - [scientific-datasets-are-riddled-with-copy-paste-errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
 - [what-developmental-milestones-are-you-missing](https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/)
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)

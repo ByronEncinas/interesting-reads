@@ -7,3 +7,4 @@
 - [Stop trying to engineer your way out of listening to people](https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/)
 - [Greenspun tenth rule](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule)
 - [Bayes Rule in Odds Form](https://entropicthoughts.com/bayes-rule-odds-form)
+- [Fermi, Majorana and Mental Maths](https://entropicthoughts.com/fermi-and-mental-maths)

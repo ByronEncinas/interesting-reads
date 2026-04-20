@@ -8,3 +8,11 @@
 - [Greenspun tenth rule](https://en.wikipedia.org/wiki/Greenspun%27s_tenth_rule)
 - [Bayes Rule in Odds Form](https://entropicthoughts.com/bayes-rule-odds-form)
 - [Fermi, Majorana and Mental Maths](https://entropicthoughts.com/fermi-and-mental-maths)
+- [Statistical literacy](https://entropicthoughts.com/statistical-literacy)
+
+# To-Be-Read
+- [Learn What](https://danluu.com/learn-what/)
+- [Becoming data driven from first principles](https://commoncog.com/becoming-data-driven-first-principles/)
+- [the bromine chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
+- [scientific-datasets-are-riddled-with-copy-paste-errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
+- [what-developmental-milestones-are-you-missing](https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/)

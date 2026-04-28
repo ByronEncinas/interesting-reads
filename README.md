@@ -10,6 +10,12 @@
 - [Fermi, Majorana and Mental Maths](https://entropicthoughts.com/fermi-and-mental-maths)
 - [Statistical literacy](https://entropicthoughts.com/statistical-literacy)
 
+# Wikipedia
+
+- [Electromigration](https://en.wikipedia.org/wiki/Electromigration)
+- [Sobol Sequence](https://en.wikipedia.org/wiki/Sobol_sequence)
+- [Mean time between failures](https://en.wikipedia.org/wiki/Mean_time_between_failures)
+
 # To-Be-Read
 - [Learn What](https://danluu.com/learn-what/)
 - [Becoming data driven from first principles](https://commoncog.com/becoming-data-driven-first-principles/)

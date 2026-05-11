@@ -9,6 +9,7 @@
 - [Bayes Rule in Odds Form](https://entropicthoughts.com/bayes-rule-odds-form)
 - [Fermi, Majorana and Mental Maths](https://entropicthoughts.com/fermi-and-mental-maths)
 - [Statistical literacy](https://entropicthoughts.com/statistical-literacy)
+- [Math Behing Security: Birthday problem](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
 
 # Wikipedia
 

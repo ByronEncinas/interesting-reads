@@ -10,6 +10,7 @@
 - [Fermi, Majorana and Mental Maths](https://entropicthoughts.com/fermi-and-mental-maths)
 - [Statistical literacy](https://entropicthoughts.com/statistical-literacy)
 - [Math Behing Security: Birthday problem](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
+- [90% of the t-distribution](https://entropicthoughts.com/ninety-percent-of-the-t-distribution)
 
 # Wikipedia
 

@@ -1,5 +1,6 @@
 # interesting-reads
 
+- [Attention is al you have](https://alicegg.tech/2026/09/21/attention)
 - [Notation as a Tool for Though](https://dl.acm.org/doi/pdf/10.1145/358896.358899?__cf_chl_tk=Fnre2JE8y.JP8pG6VFkUqeyx7vNq8VAD83HWyy5Ps30-1774552321-1.0.1.1-cBU1xoAN_glgK6MJOWrW0LUcA5.KD4xwr8aJPAfa4Kw)
 - [An Interview with the Old Man of Floating-Point](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
 - [Build vs. Buy](https://entropicthoughts.com/build-vs-buy)
@@ -11,6 +12,11 @@
 - [Statistical literacy](https://entropicthoughts.com/statistical-literacy)
 - [Math Behing Security: Birthday problem](https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html)
 - [90% of the t-distribution](https://entropicthoughts.com/ninety-percent-of-the-t-distribution)
+
+## Subsection for PhD students
+
+- [Navigating Burnout](https://astrowizici.st/posts/navigating-burnout/)
+- [Research Expectations](https://astrowizici.st/posts/student-research-expectations/)
 
 # Wikipedia
 

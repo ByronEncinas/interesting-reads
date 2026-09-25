@@ -19,6 +19,12 @@
 - [Navigating Burnout](https://astrowizici.st/posts/navigating-burnout/)
 - [Research Expectations](https://astrowizici.st/posts/student-research-expectations/)
 
+# Technical 
+
+- [Build your own text editor](https://www.mattduck.com/build-your-own-text-editor)
+  - https://hackaday.com/2025/06/17/a-gentle-introduction-to-ncurses-for-the-terminally-impatient/
+  - https://invisible-island.net/ncurses/ncurses-intro.html
+
 # Wikipedia
 
 - [Electromigration](https://en.wikipedia.org/wiki/Electromigration)

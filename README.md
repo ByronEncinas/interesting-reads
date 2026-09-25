@@ -33,3 +33,5 @@
 - [what-developmental-milestones-are-you-missing](https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - [Data Analysis Optimization and Sampling (Lecture on Bayesian Statistics)](https://astrowizici.st/teaching/data-analysis/optimization_and_sampling/lecture-09/)
+- [Avoiding the babbling-idiot failure in a time-triggered communication system](https://ieeexplore.ieee.org/document/689473)
+

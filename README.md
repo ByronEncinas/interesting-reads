@@ -32,3 +32,4 @@
 - [scientific-datasets-are-riddled-with-copy-paste-errors](https://www.sciencedetective.org/scientific-datasets-are-riddled-with-copy-paste-errors/)
 - [what-developmental-milestones-are-you-missing](https://slatestarcodex.com/2015/11/03/what-developmental-milestones-are-you-missing/)
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
+- [Data Analysis Optimization and Sampling (Lecture on Bayesian Statistics)](https://astrowizici.st/teaching/data-analysis/optimization_and_sampling/lecture-09/)
